@@ -1,0 +1,114 @@
+.banner_main {
+    background: #de0f10;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    min-height: 10em;
+}
+.overlay-w3pvt {
+    background: rgba(0, 0, 0, 0.38);
+    min-height: 20em;
+}
+.container {
+    width: 100%;
+    height: 100%;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+@media (min-width: 576px) {
+    .container {
+    max-width: 540px;
+    }
+}
+  
+@media (min-width: 768px) {
+.container {
+    max-width: 720px;
+    }
+}
+
+@media (min-width: 992px) {
+.container {
+    max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+.container {
+    max-width: 1200px;
+    }
+}
+.banner-info {
+    padding: 3em 0 0 0;
+}
+.banner-info h3 {
+    font-size: 3.5em;
+    letter-spacing: 1px;
+    word-spacing: 6px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.text-center {
+    text-align: center !important;
+}
+.search-bottom {
+    margin-top: -9em;
+    margin-left: 20%;
+    margin-right: 20%;
+    z-index: 10;
+    position: relative;
+    height: 20em;
+}
+.bottom-gd {
+    background: #fff;
+    box-shadow: 7px 7px 10px 0 rgba(76, 110, 245, .1);
+    height: 100%;
+}
+.tipdistrict{
+    top: 30%;
+    height: 80%;
+    text-align:center;
+}
+.row.boxdistrict{
+    margin: 15px;
+    padding: 15px;
+    height: 100%;
+}
+.result-bottom{
+
+}
+.posion-dis{
+    padding-top: 40%;
+    height: 30%;
+    width: 30%;
+}
+tbody tr td img{
+    width: 30%;
+}
+.tipfirst{ 
+    position: -webkit-sticky;
+    position: sticky;
+    margin-top: 2em;
+    margin-left: 47%;
+    padding: 5px; 
+}
+.tipsec{
+    margin-right: 0.5em;
+    margin-top: 0.5em;
+}
+.tipthrid{
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+}
+.fontfourth{
+    margin-top: 100px;
+    font-size:40px;
+}
+tbody tr td{
+    width:20px;
+    
+}
